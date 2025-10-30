@@ -76,4 +76,6 @@ To provide an interactive tool that:
 ---
 
 ## 🖼 Screenshots / Demos
-![Finance Dashboard](https://raw.githubusercontent.com/rishikesh199/Finance_Dashboard/main/Finance_Dashboard.png)
+
+![Finance Dashboard](https://raw.githubusercontent.com/rishikesh199/Finance_Dashboard_PowerBI/main/Finance_Dashboard.png).
+![Finance Dashboard Tooltip View](https://raw.githubusercontent.com/rishikesh199/Finance_Dashboard_PowerBI/main/Finance_Dashboard_ToolTip.png).
