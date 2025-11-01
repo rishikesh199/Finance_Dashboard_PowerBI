@@ -1,6 +1,11 @@
 # Finance_Dashboard_PowerBI
 Interactive Finance Dashboard built in Power BI Track expenses, income, and savings with dynamic visuals, year filters, and KPIs. Includes trend analysis, donut charts for category breakdown, and conditional formatting for performance indicators. Ideal for personal finance and business insights.
 
+👉 **Click below to view the Finance Dashboard:**
+
+[![View Finance Report](https://img.shields.io/badge/Power%20BI-Open%20Finance%20Dashboard-blue)](https://app.powerbi.com/view?r=eyJrIjoiYWY4NzNlYjctMmMzOC00MDc0LWJmZGUtZTk0OGY2MzdkMzVhIiwidCI6ImM2MDAxOTk3LWQ4MzEtNDY3Zi05NDZhLThhZWU1ZDc0NmQ1NCJ9)
+
+
 # 💰 Smart Finance Dashboard: Expense, Income & Savings Insights
 
 A dynamic, interactive Power BI dashboard designed to track and analyze personal finance data. It provides real-time insights into expenses, income, and savings with advanced filtering, tooltips, and visually appealing charts.
